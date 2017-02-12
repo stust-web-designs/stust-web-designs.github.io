@@ -1,0 +1,71 @@
+.wd-header {
+  background-color: #212121;
+}
+
+.wd-idea-section {
+  position: relative;
+  height: 600px;
+  width: auto;
+  background-color: #f3f3f3;
+  background: url('../img/157H.jpg') center 30% no-repeat;
+  background-size: cover;
+}
+
+.wd-slogan {
+  font-size: 60px;
+  padding-top: 200px;
+  color: white;
+}
+
+.wd-sub-slogan {
+  font-size: 21px;
+  padding-top: 24px;
+  color: white;
+}
+
+.wd-footer {
+  background-color: #212121;
+  position: relative;
+}
+
+.wd-footer a:hover {
+color: #8bc34a;
+}
+
+.wd .mdl-mega-footer--top-section::after {
+border-bottom: none;
+}
+
+.wd .mdl-mega-footer--middle-section::after {
+border-bottom: none;
+}
+
+.wd .mdl-mega-footer--bottom-section {
+position: relative;
+}
+
+.wd .mdl-mega-footer--bottom-section a {
+margin-right: 2em;
+}
+
+.wd .mdl-mega-footer--right-section a .material-icons {
+position: relative;
+top: 6px;
+}
+
+.wd-copyright {
+text-align: center;
+}
+
+.wd-introduction-section {
+  position: relative;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.wd-join-section {
+  position: relative;
+  background: url('../img/326H.jpg') center top no-repeat;
+  background-size: cover;
+  height: 600px;
+}
